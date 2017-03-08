@@ -1,0 +1,10 @@
+li a {
+    display: block;
+    color: #000;
+    padding: 10px 10px;
+}
+
+li a:hover {
+    background-color: coral;
+    color: white;
+}
